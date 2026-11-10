@@ -1,0 +1,29 @@
+HLAVIČKA
+Logo: Svetobežník
+Podtitul loga: Cestovná kancelária
+Navigácia: Domov | Destinácie | Kontakt
+Tlačidlo: Naplánovať cestu
+
+ÚVODNÁ SEKCIA
+Nadpis: Objav miesta, o ktorých snívaš
+Text: Zájazdy na mieru pre rodiny, páry aj partie kamarátov. Postaráme sa o všetko okrem toho, že si zbalíš kufor.
+Tlačidlo: Vybrať dovolenku
+
+DESTINÁCIE
+
+Chorvátsko
+Text: Čistá voda, kamenné mestečká a krátka cesta autom. Dovolenka bez stresu.
+Odkaz: Objaviť destináciu
+
+Island
+Text: Gejzíry, vodopády a polárna žiara. Pre tých, čo hľadajú dobrodružstvo.
+Odkaz: Objaviť destináciu
+
+Thajsko
+Text: Pláže, chrámy a jedlo, na ktoré nezabudneš. Pohodlne aj s deťmi.
+Odkaz: Objaviť destináciu
+
+PÄTA
+Logo: Svetobežník
+Copyright: © 2026 Svetobežník
+Doplnkový text: Navrhnuté pre cesty, na ktoré sa nezabúda.
