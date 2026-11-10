@@ -1,0 +1,14 @@
+:root {
+    --verydarkgreen: #17211f;
+    --darkgreen: #263b35;
+    --verylightyellow: #f6f4ee;
+    --yellow: #b69a68;
+    --darkergreen: #28332f;
+    --lightgreen: #68716b;
+    --lightyellow: #e4e0d6;
+}
+
+
+body {
+    background-color: #f0f0f0;
+}
